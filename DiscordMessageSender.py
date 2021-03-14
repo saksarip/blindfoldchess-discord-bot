@@ -84,4 +84,4 @@ async def on_message(message):
         await message.channel.send(print_pos(hist[-1]))
 
 
-client.run('NzUwOTAzMTE0NzA1NjY2MTc4.X1BTBQ.WhyhwdO2wWGpxiZdF3R30DQvEoM')
+client.run('####YOURBOTTOKEN#####')
